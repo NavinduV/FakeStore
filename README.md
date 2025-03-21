@@ -1,8 +1,6 @@
-# WarmHands - Disaster Management System
+# Shopping Cart - React & Firebase
 
-![WarmHands_logo](frontend/src/assets/warmhands-logo-full.png)
-
-This is a Disaster Management System developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). This system allows users to report incidents related to natural disasters and notifies users in the affected area after admin verification.
+This is a simple shopping cart system built with React and Firebase Firestore. Users can browse products, add them to their cart, adjust quantities, and remove items.
 
 ## Table of Contents
 
